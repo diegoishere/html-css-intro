@@ -54,3 +54,41 @@ nav li {
 nav a {
     text-decoration: none;
 }
+footer {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    overflow: hidden
+}
+.links {
+    float: right;
+    width: 50%;
+}
+.partners {
+    float: left;
+    width: 50%;
+}
+footer a {
+    color: tomato;
+    text-decoration: none;
+    text-align: left;
+}
+footer ul {
+    list-style: none;
+}
+footer li {
+    display: inline-block;
+}
+footer img {
+    width: 100px;
+    margin: 5px;
+    display: inline-block;
+}
+footer h3 {
+    margin-left:38px;
+}
+
+
+
+
+
