@@ -28,8 +28,10 @@ td {
     border: solid #ddd 1px;
     padding: 10px;
 }
-thead {
+th {
     font-weight: bold;
+    border: solid #ddd 1px;
+    padding: 10px;
 }
 .curriculum {
     background-color: rgba(0, 255, 0, 0.5);
