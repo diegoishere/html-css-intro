@@ -18,6 +18,19 @@ section {
 .schedule {
     background-color: tomato;
 }
+table {
+    border: solid #ddd 1px;
+    margin: 5px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+td {
+    border: solid #ddd 1px;
+    padding: 10px;
+}
+thead {
+    font-weight: bold;
+}
 .curriculum {
     background-color: rgba(0, 255, 0, 0.5);
 }
